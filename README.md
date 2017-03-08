@@ -1,3 +1,3 @@
-# A_E-
+# A_EÖ
 
-First file
+This repository contains PCB CAD course homework of Emin Can ÖZDEMÝR 
